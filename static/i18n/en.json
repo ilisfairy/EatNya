@@ -1,7 +1,8 @@
-  ''
- 79979 hk?":hnml.=  ng  bnv7j ;'[?*****t",
-(    "normal": "Normal",
-)    "endless": "Endless",
+{
+    "lang": "en",
+    "start": "Start",
+    "normal": "Normal",
+    "endless": "Endless",
     "practice": "Practice",
     "settings": "Settings",
     "img-before": "Img-before",
@@ -30,7 +31,7 @@
     "home": "Home",
     "rank": "Rank",
     "repo": "Repo",
-   "text-level-1": "Try again?",
+    "text-level-1": "Try again?",
     "text-level-2": "Not bad",
     "text-level-3": "Nice",
     "text-level-4": "Awesome",
@@ -55,4 +56,4 @@
     "self-record": "{name} highest record. Uploaded {attempts} times<br/>SCORE:{score} {time}",
     "no-self-record": "No record of {name} (Or filtered)",
     "no-name-tip": "Tip: you won't fill in your name before playing"
-  }b0 vvp
+  } 
