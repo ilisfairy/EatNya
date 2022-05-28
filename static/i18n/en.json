@@ -56,4 +56,4 @@
     "self-record": "{name} highest record. Uploaded {attempts} times<br/>SCORE:{score} {time}",
     "no-self-record": "No record of {name} (Or filtered)",
     "no-name-tip": "Tip: you won't fill in your name before playing"
-  }b0 vvp
+	}
