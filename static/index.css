@@ -146,7 +146,7 @@ body {
 .t4,
 .t5 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore.png);
+    background-image: url("https://img.wang.232232.xyz/img/2022/07/03/ClickBefore.png");
 }
 
 .tt1,
@@ -155,7 +155,7 @@ body {
 .tt4,
 .tt5 {
     background-size: auto 86%;
-    background-image: url(./image/AfterClicking.png);
+    background-image: url("https://img.wang.232232.xyz/img/2022/07/03/AfterClicking.png");
 }
 
 .bl {
